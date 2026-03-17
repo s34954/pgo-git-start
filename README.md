@@ -1,22 +1,24 @@
-\# pgo-git-start
+\## Struktura projektu
 
 
 
-Projekt do nauki Git i GitHub.
+pgo-git-start
+
+\- README.md
+
+\- src/Main.java
 
 
 
-Autor: Oskar Wieczorek
+\## Użyte polecenia Git
 
 
 
-Celem projektu jest nauka:
+git init
 
-\- repozytoriów Git
+git add
 
-\- commitów
+git commit
 
-\- branchy
-
-\- merge
+git push
 

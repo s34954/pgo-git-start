@@ -46,3 +46,11 @@ Jest to prosty projekt konsolowy w Javie używany do nauki systemu kontroli wers
 
 5\. Scalanie zmian do gałęzi main
 
+
+
+\## Dodatkowa sekcja
+
+
+
+Zmiana wykonana w gałęzi master.
+
